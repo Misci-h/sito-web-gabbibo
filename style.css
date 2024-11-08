@@ -1,0 +1,13 @@
+
+    .intestazione{padding: 3px;
+    background-color: gold;
+    text-align: center;
+    border-style: solid;
+    border-color: darkcyan ;
+    border-width: 4px;
+    border-radius: 25px;
+    }
+    .gatto{
+        font-size: medium;
+        color: black 
+    }
